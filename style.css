@@ -251,3 +251,6 @@ body {
     margin: 15px auto !important;
     display: block !important;
 }
+img[src="photo1.jpeg"] {
+    object-position: center 20% !important;
+}
